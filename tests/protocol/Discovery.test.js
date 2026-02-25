@@ -2,7 +2,7 @@
  * 节点发现协议 测试
  */
 
-const Discovery = require('../../src/protocol/Discovery/Discovery');
+const Discovery = require('../../src/protocol/Discovery');
 
 describe('Discovery', () => {
   it('should be defined', () => {

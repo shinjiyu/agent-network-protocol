@@ -2,7 +2,7 @@
  * Gossip 协议 测试
  */
 
-const Gossip = require('../../src/protocol/Gossip/Gossip');
+const Gossip = require('../../src/protocol/Gossip');
 
 describe('Gossip', () => {
   it('should be defined', () => {

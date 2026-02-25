@@ -2,7 +2,7 @@
  * 网络集成 测试
  */
 
-const Network = require('../../src/integration/Network/Network');
+const Network = require('../../src/Network');
 
 describe('Network', () => {
   it('should be defined', () => {

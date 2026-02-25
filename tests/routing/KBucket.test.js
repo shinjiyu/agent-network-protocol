@@ -2,7 +2,7 @@
  * DHT 路由 测试
  */
 
-const KBucket = require('../../src/routing/DHT/KBucket');
+const KBucket = require('../../src/routing/KBucket');
 
 describe('KBucket', () => {
   it('should be defined', () => {

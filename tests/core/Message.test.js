@@ -2,7 +2,7 @@
  * 消息格式 测试
  */
 
-const Message = require('../../src/core/Message/Message');
+const Message = require('../../src/core/Message');
 
 describe('Message', () => {
   it('should be defined', () => {

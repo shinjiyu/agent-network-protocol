@@ -2,7 +2,7 @@
  * 消息传递 测试
  */
 
-const Messaging = require('../../src/protocol/Messaging/Messaging');
+const Messaging = require('../../src/protocol/Messaging');
 
 describe('Messaging', () => {
   it('should be defined', () => {

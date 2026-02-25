@@ -2,7 +2,7 @@
  * 加密模块 测试
  */
 
-const Crypto = require('../../src/security/Crypto/Crypto');
+const Crypto = require('../../src/security/Crypto');
 
 describe('Crypto', () => {
   it('should be defined', () => {

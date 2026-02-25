@@ -2,7 +2,7 @@
  * 节点核心类 测试
  */
 
-const Node = require('../../src/core/Node/Node');
+const Node = require('../../src/core/Node');
 
 describe('Node', () => {
   it('should be defined', () => {

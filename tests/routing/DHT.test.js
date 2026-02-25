@@ -2,7 +2,7 @@
  * DHT 路由 测试
  */
 
-const DHT = require('../../src/routing/DHT/DHT');
+const DHT = require('../../src/routing/DHT');
 
 describe('DHT', () => {
   it('should be defined', () => {
